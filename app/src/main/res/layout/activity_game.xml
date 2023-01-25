@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<GridLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/radiant_gradient"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/IV_Snake"
+        android:layout_marginTop="112.5dp"
+        android:layout_marginStart="112.5dp"
+        android:layout_width="57.5dp"
+        android:layout_height="57.5dp"
+        android:contentDescription="@string/serpent_t_te"
+        android:src="@drawable/corps" />
+
+    <ImageView
+        android:id="@+id/IV_Pomme"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:contentDescription="@string/pomme" />
+</GridLayout>

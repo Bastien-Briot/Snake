@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="serpent_t_te">Serpent Tête</string>
+    <string name="pomme">Pomme</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="quitter">Quitter</string>
+    <string name="jouer">Jouer</string>
+    <string name="snake_game">Snake Game</string>
+
+    <array name="random_images">
+        <item>@drawable/pomme</item>
+    </array>
+</resources>
